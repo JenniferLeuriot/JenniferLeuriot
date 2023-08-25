@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Jennifer</h1>
-<h3 align="center">A new passionnate data-analyst ! Eager to learn always more, I'm actually looking for a data analyst position so please, feel free to hire me ;)</h3>
+<h3 align="center">A new passionnate data-analyst ! Eager to learn, I'm actually looking for a data analyst position so please, feel free to hire me ;)</h3>
 
 - 🌱 I’m graduated with **a data-analyst bachelor’s-level diploma**
 
 - 🤝 I’m looking for **a data-analyst position**
 
-- 👨‍💻 All of my projects are available **on my GitHub repositories**
+- 👨‍💻 All my projects are available **on my GitHub repositories**
 
 - 💬 I speak **English and French**
 
